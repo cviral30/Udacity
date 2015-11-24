@@ -2,7 +2,7 @@
 
 - JQuery is a set of helpful addons to the javascript.
 - jQuery is much better at giving you immediate, visual results than regular JavaScript.
-- We need <script> tag to link our html code to our js code.
+- We need **<script>** tag to link our html code to our js code.
 ```<script type="text/javascript" src="example.js"></script> ```
 - Functions are the basic unit of doing work in jQuery.
 - It looks like this :
